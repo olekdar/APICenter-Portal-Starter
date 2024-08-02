@@ -1,0 +1,10 @@
+{
+  "dataApiHostName": "odar-api-center.data.westeurope.azure-apicenter.ms/workspaces/default",
+  "title": "API portal",
+  "authentication": {
+      "clientId": "4d716e00-01c5-4243-abbc-a6aa088b5288",
+      "tenantId": "0ea1ba79-7f50-4fa7-9cd7-2e5d696c781a",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  }
+}
